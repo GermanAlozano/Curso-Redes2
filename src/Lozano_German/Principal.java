@@ -16,6 +16,7 @@ public class Principal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Mensaje para comprobar la sincronizacion en Githud");
         Interfaz v12 = new Interfaz();
     }
     
